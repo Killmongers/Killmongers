@@ -1,6 +1,15 @@
 
 <h2 align="left">Hi 👋! My name is Swastik Moolya and I'm a programmer</h2>
 
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 
 ###
