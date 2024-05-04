@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning python<br>🎯 Goals: DataScientist<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning python<br>🎯 Goals: Data Scientist<br>🎲 Fun fact: Did you know that the programming language Python is named after the British comedy troupe Monty Python? Guido van Rossum, Python's creator, was a fan of the show and chose the name to honor it. So, every time you write Python code, you're tapping into a bit of comedic inspiration!</p>
 
 ###
 
