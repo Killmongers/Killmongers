@@ -37,7 +37,7 @@
 ###
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fcd37fa49c983ac905df0016fd5b6a2ee%2Ftenor.gif%3Fitemid%3D13165216&f=1&nofb=1&ipt=0353193cb6dd62f2c858d9dbb19eac668abb7b0abead5bc9e3978d4421226d56&ipo=images"  />
 
 ###
 
