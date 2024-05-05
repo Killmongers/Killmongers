@@ -32,6 +32,11 @@
   <img width="12" />
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.msJ5-X_TC957GXCRltCiPAHaHa%26pid%3DApi&f=1&ipt=3c8ddb6b21891fb0f4066f8763c72c3df88541c164c46dbfbc8e0bf26a5570a9&ipo=images" height="40" alt="python logo"  />
  <img width="12" />
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.knt4jZIR6HmZVpzxlgWnswHaHa%26pid%3DApi&f=1&ipt=e87a90efdd043477276cd641f561e8ab9835e9a7df06a9712fd6f070cbb2b8bb&ipo=images" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.FfrMRcqcij7ZX2I8YRcRmQHaHa%26pid%3DApi&f=1&ipt=a5a1f027a4b2adb12b07e28971ac8760e7f739e47222cd0154b1e7eee739edc9&ipo=images" height="40" alt="python logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 
 </div>
