@@ -34,7 +34,7 @@
  <img width="12" />
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.knt4jZIR6HmZVpzxlgWnswHaHa%26pid%3DApi&f=1&ipt=e87a90efdd043477276cd641f561e8ab9835e9a7df06a9712fd6f070cbb2b8bb&ipo=images" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.FfrMRcqcij7ZX2I8YRcRmQHaHa%26pid%3DApi&f=1&ipt=a5a1f027a4b2adb12b07e28971ac8760e7f739e47222cd0154b1e7eee739edc9&ipo=images" height="40" alt="python logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.l_5RrXvfEAXihZJw0ynvcQHaIk%26pid%3DApi&f=1&ipt=f8b9ca24a19e557441fe6b2727e760aba881cc65761170e365b35bbe96e7fdf1&ipo=images" height="40" alt="python logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
