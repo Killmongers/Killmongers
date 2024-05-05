@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" height="40" alt="python logo"  />
   <img width="12" />
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.msJ5-X_TC957GXCRltCiPAHaHa%26pid%3DApi&f=1&ipt=3c8ddb6b21891fb0f4066f8763c72c3df88541c164c46dbfbc8e0bf26a5570a9&ipo=images" height="40" alt="python logo"  />
+ <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 
 </div>
