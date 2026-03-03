@@ -1,44 +1,61 @@
 <h1 align="center">Hey 👋 I'm Swastik Moolya</h1>
-<h3 align="center">🚀 Programmer | Future DevOps Engineer | Bug Creator Since 2019</h3>
+<h3 align="center">🚀 Programmer | Future DevOps Engineer | Building Since 2019</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Docker+%7C+Kubernetes+Learner;Python+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ✨ Creating bugs since **2019**
-- 📚 Currently learning **Python**
-- 🎯 Goal: **DevOps Engineer**
-- 🎲 Fun Fact: Python is named after *Monty Python*, not the snake 🐍
+- ✨ Writing code (and bugs) since **2019**
+- 📚 Currently diving deep into **Python**
+- 🎯 Target: Becoming a **DevOps Engineer**
+- 🧠 Passionate about automation, cloud & scalable systems
+- 🎲 Fun Fact: Python is named after *Monty Python* 🐍
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🛠 Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
 </p>
 
-### ⚙️ Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,docker,kubernetes,linux,git,github" />
+### ⚙️ Dev & DevOps Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,docker,kubernetes,linux,git,github,bash" />
 </p>
 
 ---
 
-## 📈 Currently Working On
-- 🧠 Improving problem solving
-- 🐳 Learning Docker & Kubernetes deeply
-- ☁️ Exploring Cloud & DevOps roadmap
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📈 Currently Leveling Up
+
+- 🐳 Docker & containerization mastery  
+- ☸️ Kubernetes fundamentals  
+- ☁️ Cloud concepts (AWS / GCP roadmap)  
+- 🧠 System design basics  
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-link">
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/your-link">
+  <a href="https://instagram.com/YOUR-LINK">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -49,31 +66,8 @@
 
 ```bash
 while(alive) {
-   eat();
-   code();
-   sleep();
+   learn();
+   build();
+   improve();
    repeat();
 }
-
-
----
-
-### 🔥 Why This Version Is Better
-
-- Clean layout  
-- No broken external PNG links  
-- Uses modern `skillicons.dev`  
-- Looks professional (not cringe)  
-- Matches your DevOps goal  
-- Recruiter-friendly  
-
----
-
-If you want, I can make:
-
-- 🔥 A **dark hacker theme version**
-- 💎 A **minimal FAANG-style version**
-- 🚀 A DevOps-focused branding version
-- 🎨 Or a fully animated README
-
-Tell me what vibe you want 👑
