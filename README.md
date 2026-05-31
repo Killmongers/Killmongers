@@ -74,10 +74,10 @@
 📍 Ahmedabad, Gujarat
 🗓 September 2025 – Present
 
-* Built **AutoLead WhatsApp chatbot** using LangChain JS + RAG-based document search
+* Built **LeadBot WhatsApp chatbot** using LangChain JS + RAG-based document search
 * Integrated **Google ADK, Gemini & ChatGPT wrappers**
 * Developed **hotel booking WhatsApp bot** using Oracle Hospitality OHIP API
-* Built full-stack **IVF Clinic Management Platform** with AI image analysis using Vertex AI
+* Built full-stack **Clinic Management Platform** with AI image analysis using Vertex AI
 * Implemented JWT auth, SendGrid notifications & secure GCS signed URLs
 * Added AI guardrails for safe chatbot responses
 * Built Discord productivity bot for internal team workflow automation
@@ -101,7 +101,7 @@
 
 # 🚀 Featured Projects
 
-## 🤖 AutoLead WhatsApp Chatbot
+## 🤖 LeadBot WhatsApp Chatbot
 
 **LangChain JS • Node.js • PostgreSQL • WhatsApp API**
 
@@ -112,12 +112,12 @@
 
 ---
 
-## 🧬 IVF Clinic Management Platform
+## 🏥 Clinic Management Platform
 
 **React • Node.js • Prisma • PostgreSQL • Vertex AI**
 
-* AI-assisted embryo image analysis
-* Secure medical image storage in GCS
+* AI-assisted medical image analysis
+* Secure image storage in GCS
 * Signed URL generation
 * Role-based authentication system
 * SendGrid email notifications
